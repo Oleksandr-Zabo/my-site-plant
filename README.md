@@ -8,6 +8,8 @@ A website project that showcases plant-related content. The project is developed
 
 This project is designed to provide information and resources about various plants. It includes features such as plant descriptions, care tips, and an image gallery.
 
+You can view the live site [here](https://oleksandr-zabo.github.io/my-site-plant/).
+
 ## Installation
 
 To get a local copy up and running, follow these steps:
